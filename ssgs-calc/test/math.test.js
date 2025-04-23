@@ -5,12 +5,11 @@ test('addizione di due numeri positivi (3 + 4 = 7)', () => {
     expect(math.addizione(3, 4)).toBe(7);
 });
 
-/* Test sbagliato (fallirà)
+//Test sbagliato
 test.skip('3 + 5 dovrebbe essere 7(test sbagliato)', () => {
     const result = math.addizione(3, 5);
     expect(result).toBe(7);
 });
-*/
 
 
 test('sottrazione tra due numeri (10 - 4 = 6)', () => {
