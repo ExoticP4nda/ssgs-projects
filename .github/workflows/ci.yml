@@ -28,6 +28,7 @@ jobs:
         run: |
           cd ssgs-calc
           npm test
+          
       - name: Run tests with coverage
         run: |
           cd ssgs-calc
