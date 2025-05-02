@@ -1,3 +1,5 @@
+#Studente: Spada Roberto
+
 # (Prima parte) Progetto di Test con Jest e CI con GitHub Actions
 
 Questo progetto si concentra sulla creazione di un'applicazione di test con Jest e sull'integrazione della **Continuous Integration (CI)** tramite **GitHub Actions**. Di seguito sono riportati i passaggi che ho seguito per configurare il progetto, eseguire i test e configurare una pipeline CI.
