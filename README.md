@@ -1,4 +1,4 @@
-#Studente: Spada Roberto
+# Studente: Spada Roberto
 
 # (Prima parte) Progetto di Test con Jest e CI con GitHub Actions
 
