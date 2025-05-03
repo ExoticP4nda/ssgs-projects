@@ -21,15 +21,12 @@ jobs:
           
       - name: Install dependencies in ssgs-calc
         run: |
-          cd ssgs-calc
           npm install
 
       - name: Run tests in ssgs-calc
         run: |
-          cd ssgs-calc
           npm test
           
       - name: Run tests with coverage
         run: |
-          cd ssgs-calc
           npm run test:coverage
