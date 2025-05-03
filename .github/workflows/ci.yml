@@ -26,7 +26,3 @@ jobs:
       - name: Run tests in ssgs-calc
         run: |
           npm test
-          
-      - name: Run tests with coverage
-        run: |
-          npm run test:coverage
