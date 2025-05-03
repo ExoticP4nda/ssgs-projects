@@ -1,20 +1,16 @@
 {
-  "name": "ssgs-projects",
+  "name": "ssgs-calc",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "cd ssgs-calc && npm test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ExoticP4nda/ssgs-projects.git"
+    "test": "jest",
+    "test:coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ExoticP4nda/ssgs-projects/issues"
-  },
-  "homepage": "https://github.com/ExoticP4nda/ssgs-projects#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
