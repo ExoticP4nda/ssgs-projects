@@ -21,7 +21,7 @@ jobs:
           
       - name: Install dependencies in ssgs-calc
         run: |
-          npm install
+          npm ci
 
       - name: Run tests in ssgs-calc
         run: |
