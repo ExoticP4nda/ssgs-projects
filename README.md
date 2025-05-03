@@ -25,7 +25,7 @@ Un semplice progetto Node.js che implementa una calcolatrice da linea di comando
 
 1. Node.js versione 18.x o superiore
 2. npm (incluso con Node.js)
-3. Accesso a un terminale (CLI) per esecuzione
+3. Accesso a un terminale per esecuzione
 
 ## 🚀 Installazione
 
@@ -39,7 +39,7 @@ cd ssgs-calc
 2. Installa le dipendenze:
 
 ```bash
-npm install
+npm ci
 ```
 
 ## 🧮 Utilizzo della Calcolatrice
@@ -114,7 +114,11 @@ jobs:
 La suite di test copre tutte le funzioni della calcolatrice:
 
 Addizione
+
 Sottrazione
+
 Moltiplicazione
+
 Divisione (compresi casi di errore)
+
 Potenza (inclusi casi particolari come esponente 0 o base 0)
